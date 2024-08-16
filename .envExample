@@ -1,0 +1,3 @@
+# ENV setup for JSForce Salesforce Authentication
+SF_USER=examplesaleforceuser@abc.com
+SF_PASSWORD=<password><securitytoken>
